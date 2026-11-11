@@ -1,0 +1,257 @@
+{
+  "capturedOn": "2026-11-11",
+  "screenshots": [
+    {
+      "file": "pet-overview.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "pet-agenda.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo?secao=agenda",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "pet-health.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo?secao=saude",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "pet-finance.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo?secao=financeiro",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "pet-pets.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo?secao=pets",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "pet-mobile.webp",
+      "source": "https://sistema-controle-pets.vercel.app/demo",
+      "status": 200,
+      "width": 390,
+      "height": 844,
+      "title": "Demonstração — dados fictícios · Tetra Pet",
+      "local": false
+    },
+    {
+      "file": "tetra-home.webp",
+      "source": "https://tetradev.com.br/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Encontre o serviço certo agora",
+      "local": false
+    },
+    {
+      "file": "tetra-services.webp",
+      "source": "https://tetradev.com.br/#servicos",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Sistemas sob medida · TETRA",
+      "local": false
+    },
+    {
+      "file": "tetra-contact.webp",
+      "source": "https://tetradev.com.br/#contato",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Encontre o serviço certo agora",
+      "local": false
+    },
+    {
+      "file": "tetra-mobile.webp",
+      "source": "https://tetradev.com.br/",
+      "status": 200,
+      "width": 390,
+      "height": 844,
+      "title": "Encontre o serviço certo agora",
+      "local": false
+    },
+    {
+      "file": "mundo-home.webp",
+      "source": "https://mundoparticaolar.com.br/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Creche e Hotel para Cachorro na Zona Norte SP | Banho e Tosa Canina | Mundo PartiCãoLar",
+      "local": false
+    },
+    {
+      "file": "mundo-services.webp",
+      "source": "https://mundoparticaolar.com.br/servicos",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Creche, Hotel e Banho e Tosa para Cachorro | Serviços | Mundo PartiCãoLar",
+      "local": false
+    },
+    {
+      "file": "mundo-space.webp",
+      "source": "https://mundoparticaolar.com.br/estrutura",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Estrutura para Cachorro | Creche e Hotel Pet na Zona Norte SP | Mundo PartiCãoLar",
+      "local": false
+    },
+    {
+      "file": "mundo-gallery.webp",
+      "source": "https://mundoparticaolar.com.br/galeria",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Galeria de Fotos | Creche e Hotel para Cachorro | Mundo PartiCãoLar Zona Norte SP",
+      "local": false
+    },
+    {
+      "file": "vet-home.webp",
+      "source": "https://vetmais-site-qa.vercel.app/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "VetMais Laboratório Veterinário | Diagnóstico Veterinário",
+      "local": false
+    },
+    {
+      "file": "vet-exams.webp",
+      "source": "https://vetmais-site-qa.vercel.app/exames/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Exames Veterinários | VetMais LaboratÃ³rio VeterinÃ¡rio",
+      "local": false
+    },
+    {
+      "file": "vet-logistics.webp",
+      "source": "https://vetmais-site-qa.vercel.app/coleta-logistica/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Coleta e Logística de Amostras | VetMais LaboratÃ³rio VeterinÃ¡rio",
+      "local": false
+    },
+    {
+      "file": "vet-blood.webp",
+      "source": "https://vetmais-site-qa.vercel.app/banco-sangue-felino/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Banco de Sangue Felino | VetMais LaboratÃ³rio VeterinÃ¡rio",
+      "local": false
+    },
+    {
+      "file": "connect-home.webp",
+      "source": "https://tetradev-sistema-gerenciamento-nfc.vercel.app/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Tetra Connect · Gestão de links NFC",
+      "local": false
+    },
+    {
+      "file": "connect-activate.webp",
+      "source": "https://tetradev-sistema-gerenciamento-nfc.vercel.app/ativar",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Tetra Connect · Gestão de links NFC",
+      "local": false
+    },
+    {
+      "file": "connect-mobile.webp",
+      "source": "https://tetradev-sistema-gerenciamento-nfc.vercel.app/ativar",
+      "status": 200,
+      "width": 390,
+      "height": 844,
+      "title": "Tetra Connect · Gestão de links NFC",
+      "local": false
+    },
+    {
+      "file": "gestao-login.webp",
+      "source": "https://gestao-tetra.vercel.app/login",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Tetra · Gestão da agência",
+      "local": false
+    },
+    {
+      "file": "gestao-mobile.webp",
+      "source": "https://gestao-tetra.vercel.app/login",
+      "status": 200,
+      "width": 390,
+      "height": 844,
+      "title": "Tetra · Gestão da agência",
+      "local": false
+    },
+    {
+      "file": "inocents-home.webp",
+      "source": "https://inocents-puce.vercel.app/",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Inocents — Elegância que abraça a sua essência",
+      "local": false
+    },
+    {
+      "file": "inocents-collection.webp",
+      "source": "https://inocents-puce.vercel.app/#colecao",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Inocents — Elegância que abraça a sua essência",
+      "local": false
+    },
+    {
+      "file": "inocents-about.webp",
+      "source": "https://inocents-puce.vercel.app/#sobre",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Inocents — Elegância que abraça a sua essência",
+      "local": false
+    },
+    {
+      "file": "creche-login.webp",
+      "source": "Interface estática original do repositório sistema-cadastro-creche, executada localmente",
+      "status": 200,
+      "width": 1440,
+      "height": 960,
+      "title": "Sistema de Gestão — Creche & Hotel Pet",
+      "local": true
+    },
+    {
+      "file": "creche-mobile.webp",
+      "source": "Interface estática original do repositório sistema-cadastro-creche, executada localmente",
+      "status": 200,
+      "width": 390,
+      "height": 844,
+      "title": "Sistema de Gestão — Creche & Hotel Pet",
+      "local": true
+    }
+  ]
+}
